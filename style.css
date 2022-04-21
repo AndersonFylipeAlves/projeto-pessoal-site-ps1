@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+}
+#logo {
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+}
+    
+#imgLogo {
+    width: 50px;
+    height: 50px;
+    padding: 5px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+}
+#pesquisa {
+    padding: 0px 10px 0px 30px;
+    margin: 30px 0px 30px 10px;
+    background-image: url('lup2.png');
+    background-repeat: no-repeat;
+    background-position: 0px 2px;
+}
+#botPesq {
+    padding: 0px 10px 0px 5px;
+    margin: 30px 0px 30px 0px;
+}
+#jogos {
+    background-color: rgb(138, 15, 15);
+    color: rgb(27, 25, 136);
+    border-radius: 10px;
+    font: normal 15pt arial;
+    margin-left: 10px;
+}
+main {
+    background-color: rgb(31, 30, 30);
+    margin: 0px;
+    padding: 0px;
+}
+#secmain {
+    background-image: url('play.jpg');
+    color: rgb(74, 74, 209);
+    width: 950px;
+    height: 850px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+#tit1 {
+    margin: 0px;
+    padding: 20px;
+    font-family: 'Mukta', sans-serif;
+    font-size: 25pt;
+}
+#parag1 {
+    margin: 0px;
+    padding: 20px;
+    font-family: 'Mukta', sans-serif;
+    font-size: 12pt;
+}
+#parag2 {
+    margin: 0px;
+    padding: 20px;
+    font-family: 'Mukta', sans-serif;
+    font-size: 12pt;
+}
+#parag3 {
+    margin: 0px;
+    padding: 20px;
+    font-family: 'Mukta', sans-serif;
+    font-size: 12pt;
+}
+#psimg1 {
+    width: 200px;
+    height: 150px;
+    float: left;
+    margin-right: 10px;
+    padding-left: 10px;
+}
+#psimg2 {
+    width: 150px;
+    height: 150px;
+    float: right;
+    margin-right: 10px;
+    padding-right: 10px;
+}
+#psimg3 {
+    width: 200px;
+    height: 150px;
+    float: left;
+    margin-right: 10px;
+    padding-left: 10px;
+}
+#font {
+    position: absolute;
+    right: 5px;
+}
+footer {
+    background-color: black;
+}
+#secfooter {
+    
+    color: rgb(143, 143, 6);
+    padding: 25px;
+    display: flex;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+.divfooter {
+    padding: 25px;
+    
+}
+#cartoes {
+    width: 150px;
+    height: 200px;
+    padding: 0px 0px 0px 70px;
+    margin: 0px;
+}
